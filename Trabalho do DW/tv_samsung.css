@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(131, 174, 255);
+}
+
+#titulo-principal {
+    background-color: rgb(82, 117, 185); 
+    color: aliceblue;
+}
+
+.titulos-secundarios { 
+    background-color: rgb(198, 206, 251);
+
+}
+
+p {
+    font-size: large;
+}
+
+.imageqled {
+    width:500px;
+}
+
+.btnComprar {
+    width: 200px; 
+    height: 35px ;
+    background-color: #0077ff;
+    opacity: 0.6;
+    
+}
+
+.btnComprar:hover {
+    opacity: 1;
+}
+
+.btnComprar a {
+    color: #FFF;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
